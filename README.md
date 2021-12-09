@@ -1,2 +1,2 @@
 # beanbagiscool
-IMAGE HOSTING
+imagey
